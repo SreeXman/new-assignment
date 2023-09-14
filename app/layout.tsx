@@ -17,12 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>{children}
-      <script>
-	var beamer_config = {
-		product_id : "uhNsudBy58412" //DO NOT CHANGE: This is your product code on Beamer
-	};
-</script>
-<script type="text/javascript" src="https://app.getbeamer.com/js/beamer-embed.js" defer="defer"></script>
+     
 					</body>
     </html>
   )
